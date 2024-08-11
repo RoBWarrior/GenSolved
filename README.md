@@ -100,6 +100,7 @@ The function **`read_csv_(csv_path)`** reads a CSV file containing contour data.
 ```python
 # Example command to run the script (if saved as a .py file)
 python detect_shapes.py
+```
 ![WhatsApp Image 2024-08-11 at 17 53 52_6d5a82ee](https://github.com/user-attachments/assets/1b73dce5-7a8d-45d1-8cb8-b16bc5f0783b)
 
 
