@@ -46,6 +46,7 @@ You can install these dependencies using pip:
 
 ```bash
 pip install opencv-python numpy matplotlib imutils
+```
 
 ## How It Works
 
